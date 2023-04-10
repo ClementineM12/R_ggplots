@@ -1,7 +1,7 @@
 # R_ggplots
-Script written in R programming language that utilizes various functions to perform data comparison, visualization and hypothesis testing. Import the data, 
-perform statistical analysis, and generate plots and visualizations to help understand and interpret the data. 
-Present the data in a clear and interpretable way.
+Script written in R programming language that utilizes various functions to perform data comparison, visualization and <br>
+hypothesis testing. Import the data, perform statistical analysis, and generate plots and visualizations to help <br>
+understand and interpret the data. Present the data in a clear and interpretable way. <br>
 
       Example: Boxplot and Density plot with Measurement Results by comparing a numerical and a categorical variable.
 
