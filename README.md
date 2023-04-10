@@ -1,5 +1,5 @@
 # R_ggplots
-Script written in R programming language that utilizes various functions to perform data comparison and visualization. Import the data, 
+Script written in R programming language that utilizes various functions to perform data comparison, visualization and hypothesis testing. Import the data, 
 perform statistical analysis, and generate plots and visualizations to help understand and interpret the data. 
 Present the data in a clear and interpretable way.
 
